@@ -9,3 +9,8 @@ Answer: Data science could be applied to the field of Lingustics, as linguists u
 judgements of a speaker on a much larger scale, or find patterns not as easily detected by the human eye 
 in audio files.
 
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging keeps the original history, while rebasing makes it cleaner but can be riskier if 
+others are working on the same branch.
+
