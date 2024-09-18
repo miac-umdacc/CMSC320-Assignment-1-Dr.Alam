@@ -14,3 +14,6 @@ Q3: What is the difference between merging and rebasing?
 Answer: Merging keeps the original history, while rebasing makes it cleaner but can be riskier if 
 others are working on the same branch.
 
+Q4: What skills do you hope to improve during this course?
+
+Answer: All of them? But mostly my ability to look at data. Definitely the desc. stats aspect. 
